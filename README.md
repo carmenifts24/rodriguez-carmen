@@ -1,2 +1,3 @@
-# rodriguez-carmen-nlp-integrador
-Proyecto Integrador NLP. Instituto IFTS-24. Buenos Aires. Alumna Carmen Rodríguez
+# NLP
+Material Práctivco y Teórico de NLP
+Aquí tengo los fundamentos teóricos y prácticos de la materia
